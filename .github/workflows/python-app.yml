@@ -15,7 +15,7 @@ on:
 #   contents: read
 
 jobs:
-  build:
+  test:
 
     runs-on: ubuntu-latest #Github will run it on ubuntu-latest container
 
