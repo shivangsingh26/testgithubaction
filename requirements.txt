@@ -1,0 +1,4 @@
+pandas 
+pytest
+#pytest is used in unit testing
+#pytest requires a tests folder to be present in the root directory
